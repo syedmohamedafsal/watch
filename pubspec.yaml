@@ -67,7 +67,9 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/model/golden_watch.glb
-  #   - images/a_dot_ham.jpeg
+    - assets/model/chronograph_watch_mudmaster.glb
+    - assets/model/huawei_watch_gt2.glb
+    - assets/model/wrist_watch_smartwatch.glb
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
